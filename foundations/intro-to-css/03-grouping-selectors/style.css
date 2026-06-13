@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+
+.b_click,
+.b_noclick {
+  font-size: 28px;
+  font-family: 'helvetica','times new roman', sans-serif;
+
+}
+
+.b_click {
+  background-color: #070707;
+  color: #ffffff;
+}
+
+.b_noclick {
+ background-color: #ff00d0;
+}

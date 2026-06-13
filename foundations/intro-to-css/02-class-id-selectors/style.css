@@ -1,1 +1,21 @@
-/* Add CSS Styling */
+.oddnumber,
+oddnumberwithfonts {
+    background-color: #da08ba;
+    font-family: 'verdana', 'deja vu', 'sans-serif';
+}
+
+.oddnumberwithfonts {
+   font-size: 22px;
+}
+
+#evennumberone {
+    color: #0022ff;
+    font-size: 36px;
+}
+
+#evennumbertwo {
+    background-color: #6cff5f;
+    font-size: 24px;
+    font-weight: bold;
+
+}
